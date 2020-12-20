@@ -30,9 +30,9 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
-## Results<a name="results"></a>
+## Blog<a name="blog"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The results of the answers can be find here in my blog on medium [here](https://rajeevfromkrec.medium.com/which-technology-platform-and-company-to-select-as-a-new-developer-data-driven-approach-6302d4a4ce99).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
