@@ -1,21 +1,40 @@
 
+## Table of Contents
 
-# Technology is very fast-moving industry and every month new technology and platforms are added. As a new developer it’s very challenging to select which technology, platform and company to select to build career in technology. In this blog I am going to provide answer for three basic questions which every developer has before getting into technology field. This would not only help to new entrant in technology field but also experienced people. Even i had some of these questions while making switch from one company to another company like should I join a smaller company which is paying me a little extra money or should I join a big brand. Please note that the inferences are based on simple assumptions and would help guide you to take decision but in real life there are many variables and every individual’s situation can be different from others so please factor in your individual variability while taking decisions.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Blog](#blog)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Library used : I have used following library for this project
-  1. Pandas: Used pandas for data store ,analysis and modeling
-  2. Matplotlib: used matplotlib for visulaization
-  3. seaborn : Used seaborn for visualization
-  
-## This respositoy for following files :
+## Installation <a name="installation"></a>
 
-  1. Data : data folder contains the zipped data file from stackoverflows
-  2. Udacity data science project 1.ipynb : This notebook has all the code to answer business questions.
-  
-## Acknoledgement : For this i have used data from stackoverflow survey result.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-## Blog: I have written a blog on the 3 business question which can be accessed at below link
+## Project Motivation<a name="motivation"></a>
 
- https://rajeevfromkrec.medium.com/which-technology-platform-and-company-to-select-as-a-new-developer-data-driven-approach-6302d4a4ce99
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. How bias played a role in the suggestions of developers for how to break into the field?
+4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
+5. How were bootcamps assisting with increasing diversity in tech careers?
+
+The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+
+
+## File Descriptions <a name="files"></a>
+
+There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+
+There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
